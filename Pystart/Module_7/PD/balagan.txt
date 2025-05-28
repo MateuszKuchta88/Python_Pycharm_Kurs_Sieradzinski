@@ -1,0 +1,5 @@
+Jaki język wybrać na początek? Zdanie są podzielone...
+Java to świetny język.
+Java Script to język do tworzenia webaplikacji, wykorzystywany zarówno na frontendzie jak i na backendzie.
+Każdy programista webowy powinien znać również przynajmniej podstawy HTML'a oraz CSSa.
+Natomiast najbardziej wszechstronnym językiem, który posiada bardzo wiele zastosowań jest Python!

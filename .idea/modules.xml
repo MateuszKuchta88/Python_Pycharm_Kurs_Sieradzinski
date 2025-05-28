@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PyCamp/.idea/PyCamp.iml" filepath="$PROJECT_DIR$/../PyCamp/.idea/PyCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Pycharm_Kurs_Sieradzinski.iml" filepath="$PROJECT_DIR$/.idea/Python_Pycharm_Kurs_Sieradzinski.iml" />
+    </modules>
+  </component>
+</project>

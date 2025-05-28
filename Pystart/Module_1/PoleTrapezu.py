@@ -1,0 +1,6 @@
+print('Siemka w programie do liczenia pola trapezu.')
+a = float(input('Dej długość górnej podstawy trapezu: '))
+b = float(input('Dej długość dolnej podstawy trapezu: '))
+h = float(input('Dej wysokość trapezu: '))
+pole = round(0.5*(a+b)*h,2)
+print(f'Pole trapezu to {pole}')
